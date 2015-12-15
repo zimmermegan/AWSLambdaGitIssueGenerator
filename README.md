@@ -13,6 +13,7 @@ Then you want to initialize the github api
 Then you'll want to make your own copy of the issue.js file
 
 In issue.js you will need to change a few things
+---
   -add your own username and password the the authenticate function (REQUIRED FOR FUNCTIONALITY)
   -change the repo name, assignee, user tags (REQUIRED FOR FUNCTIONALITY)
   -change the issue name and the issue body.
