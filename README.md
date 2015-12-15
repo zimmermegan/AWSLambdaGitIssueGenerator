@@ -19,6 +19,6 @@ In issue.js you will need to change a few things
 
 Then you'll want to zip your directory and submit it to the aws lambda function
   - "zip -r archive.zip *"
-  - the submit
+  - then submit
 
 You can pull git issues using RUBY or Python github apis so that you can access data you've obtained from a aws lambda function.
