@@ -17,5 +17,8 @@ In issue.js you will need to change a few things
   - change the repo name, assignee, user tags (REQUIRED FOR FUNCTIONALITY)
   - change the issue name and the issue body.
 
+Then you'll want to zip your directory and submit it to the aws lambda function
+  - "zip -r archive.zip *"
+  - the submit
 
 You can pull git issues using RUBY or Python github apis so that you can access data you've obtained from a aws lambda function.
